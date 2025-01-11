@@ -1,2 +1,3 @@
-# Ola_Mundo
- first git and github couse repository 
+# Olá, Mundo!
+ First git and github couse repository 
+ Created in a live class
